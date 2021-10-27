@@ -1,0 +1,28 @@
+/*Assignment 1*/
+#assignment-instructions {
+    color: green;
+    font-family: sans-serif;
+}
+/*Assignment 2*/
+code {
+    color: red;
+    font-family: monospace;
+}
+/*Assignment 3*/
+.highlighted-code{
+    color: green;
+}
+/*Assignment 5*/
+body {
+    font-family: sans-serif;
+}
+/*Assignment 6*/
+li + li {
+    color: white;
+    background-color: black;
+}
+/*Assignment 7*/
+ol > li {
+    color: white;
+    background-color: black;
+}
