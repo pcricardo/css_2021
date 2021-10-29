@@ -158,3 +158,54 @@ The flex container: https://developer.mozilla.org/en-US/docs/Glossary/Flex_Conta
 
 - A really great article series on the CSS Grid: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout
 - A complete guide to CSS Grid: https://css-tricks.com/snippets/css/complete-guide-grid/
+
+### Section 15: 
+
+CSS Transforms: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Transforms/Using_CSS_transforms
+
+3D Transforms: https://desandro.github.io/3dtransforms/
+
+### Section 16:
+
+CSS Transitions: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Transitions/Using_CSS_transitions
+
+CSS Animations: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations/Using_CSS_animations
+
+List of "transitionable" Properties: https://www.w3.org/TR/css-transitions-1/#animatable-properties
+
+
+### section 17:
+
+CSS Modules & Working Groups: https://www.w3.org/TR/tr-groups-all#tr_Cascading_Style_Sheets__CSS__Working_Group
+
+CSS Variables: https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_variables
+
+Vendor Prefixes: https://developer.mozilla.org/en-US/docs/Glossary/Vendor_Prefix
+
+Which Vendor Prefixes should you use? => http://shouldiprefix.com/
+
+@supports: https://developer.mozilla.org/en-US/docs/Web/CSS/%40supports
+
+BEM in Detail: http://getbem.com/introduction/
+
+An introduction to Bootstrap 4: https://academind.com/learn/css/bootstrap-4-tutorial/
+
+CSS Polyfills: https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-Browser-Polyfills
+
+
+### Section 18:
+
+Dive deeper into Sass: https://sass-lang.com/guide
+
+
+### Saction 19:
+
+I got a lot of other high-quality & bestselling courses you might be interested in: https://academind.com/learn/our-courses/
+
+I'd love to welcome you on board of any of these courses! :-)
+
+Also don't forget to subscribe to my newsletter on https://academind.com/ to receive the latest updates and exclusive offers!
+
+And in case you didn't know: On the same page as well as on my YouTube channel I got loads of additional tutorials.
+
+Last but not least - I tweet on @maxedapps and on @academind_real, would love to see you there!
